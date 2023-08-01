@@ -1,2 +1,3 @@
-# Cocktail_Finder-React-Router-Portal-Toastify-AJAX-Form_Validation-Reusable_Component
+# Cocktail_Finder
 Created with CodeSandbox
+Uses React Router, React Portal, React Toastify, AJAX, Form Validation, and Reusable Components to search your favorite cocktails.
